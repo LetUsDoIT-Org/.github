@@ -10,6 +10,8 @@ We build practical apps that solve everyday problems — from garden care to foo
 
 A mobile app for Danish gardeners to track plants, manage care schedules, and get seasonal reminders. Climate-aware scheduling based on frost dates, with hand-curated Danish plant data.
 
+📋 [Project Board](https://github.com/orgs/LetUsDoIT-Org/projects/2)
+
 | Repository | Description |
 |---|---|
 | [havemakker](https://github.com/LetUsDoIT-Org/havemakker) | Planning, epics, and shared project docs |
@@ -23,6 +25,8 @@ A mobile app for Danish gardeners to track plants, manage care schedules, and ge
 ### 🍽️ EasyFood
 
 Food planning app.
+
+📋 [Project Board](https://github.com/orgs/LetUsDoIT-Org/projects/1)
 
 | Repository | Description |
 |---|---|
