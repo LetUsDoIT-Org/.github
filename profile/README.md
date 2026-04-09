@@ -22,19 +22,6 @@ A mobile app for Danish gardeners to track plants, manage care schedules, and ge
 
 ---
 
-### 🍽️ EasyFood
-
-Food planning app.
-
-📋 [Project Board](https://github.com/orgs/LetUsDoIT-Org/projects/1)
-
-| Repository | Description |
-|---|---|
-| [EasyFood](https://github.com/LetUsDoIT-Org/EasyFood) | Planning and project docs |
-| [easyfood_frontend](https://github.com/LetUsDoIT-Org/easyfood_frontend) | Frontend app |
-
----
-
 ### 🎪 Smukfest Madbestilling
 
 External food ordering system for Smukfest.
